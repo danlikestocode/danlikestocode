@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @danlikestocode
+# 👋 Hi, I’m Dan
 
 - 👀 I’m interested in ...
 > Generally anything that has to do with engineering. Especially interested in front-end web dev and picking up new technologies.
