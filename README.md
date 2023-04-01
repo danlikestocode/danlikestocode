@@ -16,7 +16,7 @@
 
 ---
 
-#### :man_technologist: About Me:
+### :man_technologist: About Me:
 
 - I am a full-time student studying computer science
 - I love building things that improve the developer experience
@@ -25,8 +25,10 @@
 I honestly just love building performant systems in low level languages,
 as well as building beautiful front-end systems that don't compromise on speed.
 Thanks for checking my stuff out, hope you like it! :P
+<br>
+<br>
 
----
+### :chart_with_upwards_trend: Github Stats:
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danlikestocode&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
