@@ -20,7 +20,7 @@
 
 - I am a full-time student studying computer science
 - I love building things that improve the developer experience
-- I'm enjoy spending time messing with hardware and FPGA's
+- I'm enjoy spending time messing with hardware and digital design
 
 I honestly just love building performant systems in low level languages,
 as well as building beautiful front-end systems that don't compromise on speed.
